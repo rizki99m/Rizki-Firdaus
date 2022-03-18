@@ -1,0 +1,98 @@
+body
+{
+    background-color: black;   
+    padding:50px 100px;
+    background-image: url("https://media2.giphy.com/media/UYBDCJjwOd9Re/giphy.gif?cid=ecf05e473b97ifxoewhnlply8bf40l25qvsxfbi3nht0w42q&rid=giphy.gif&ct=g");
+    
+}
+hr
+{
+    border-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 50%;
+    margin: 200px auto;
+    margin-bottom : 100px;
+    
+}
+
+.navigasi
+{
+    margin-bottom : 70px;
+}
+.tulisan-navbar
+{
+    font-family: 'Merriweather', serif;
+}
+.tabel-foto
+{
+    padding-left: 200px;
+}
+.foto{
+    border-radius: 50%;
+}
+.tabel-nama 
+{
+  
+    padding-top: 150px;
+
+}
+.default-text
+{
+    
+    font-family: 'Playfair Display', serif;
+    color: white;
+    font-size: 5rem;
+}
+.nama
+{
+    font-size: 4rem;
+   
+}
+
+.nama-penjelasan
+{
+    font-size: 20px;
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+
+
+.about
+{
+    font-size: 40px;
+    margin-left: 70px;
+    margin-bottom : 40px;
+  
+}
+
+.paragraf{
+    margin-left: 70px;
+    margin-bottom: 70px;
+}
+
+.karosel{
+    text-align: center;
+}
+
+.w-100 {
+    width: 50% !important;
+    height: 65vh;
+  }
+
+.footer{
+    text-align: center;
+}
+
+.contact{
+    font-size: 30px;
+}
+.link{
+    font-size: 17px;
+    margin-bottom: 50px;
+}
+
+.copy{
+    font-size: small;
+}
